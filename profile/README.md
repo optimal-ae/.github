@@ -52,14 +52,6 @@ Our engineering consultancy serves diverse sectors across Dubai and the UAE:
 - 🏫 **Educational Institutions**: Schools and training facilities
 - 🏗️ **Industrial Facilities**: Warehouses and manufacturing plants
 
-### 👥 Our Expert Team
-
-| Engineer | Role | Experience |
-|----------|------|------------|
-| **Emad Emara** | Managing Director, Mechanical Engineering Expert | 33+ years |
-| **Sunil Kumar** | Electrical Engineering Expert | 28+ years |
-| **Moamen Emara** | Senior Architect | 10+ years |
-
 ### 🌍 Service Coverage
 
 📍 **Primary Markets**: Dubai • Abu Dhabi • Sharjah • All Emirates across the UAE
